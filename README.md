@@ -53,7 +53,7 @@ Dieses Projekt wurde mit den folgenden Technologien entwickelt:
 
 
 ## Lizenz 📜
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen finden Sie in der Datei `LICENSE`.
+Dieses Projekt steht unter der MIT-Lizenz.
 
 
 
