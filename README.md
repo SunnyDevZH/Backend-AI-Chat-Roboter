@@ -1,4 +1,4 @@
-# Backen- AI-Chat-Roboter 🤖
+# Backend-AI-Chat-Roboter 
 
 Dies ist das Backend für den Chat-Roboter, das mit Flask (Version 2.4) entwickelt wurde. Es dient als Schnittstelle zwischen der Benutzeranfrage und der Verarbeitung der Daten. Das Backend ist so konfiguriert, dass es mit PythonAnywhere kommuniziert, um eine zuverlässige Bereitstellung und Verwaltung zu gewährleisten.
 
